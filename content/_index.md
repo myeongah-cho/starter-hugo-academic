@@ -11,7 +11,18 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    id: posts
+    content:
+      title: Interested Research
+      text: |-
+        Will be updated.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: compact
   - block: portfolio
+    id: projects
     content:
       title: Projects
       text: |-
@@ -21,6 +32,7 @@ sections:
       columns: '1'
       view: compact
   - block: collection
+    id: featured
     content:
       title: Featured Publications
       text: |-
@@ -37,6 +49,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
+    id: talks
     content:
       title: Professional Activities
       text: |-
