@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S./ Ph.D. <br> in Electrical and Electronic Engineering
+    - course: M.S./ Ph.D. in Electrical and Electronic Engineering
       institution: Yonsei University
       year: 2023
     - course: B.S. in Electronic Engineering
