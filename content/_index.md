@@ -16,7 +16,8 @@ sections:
     content:
       title: Research Area
       subtitle: ''
-      text: ''
+      text: |-
+        Will be updated.
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
