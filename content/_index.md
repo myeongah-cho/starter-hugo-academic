@@ -208,36 +208,24 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: maycho0305@gmail.com
+      phone: +82 2 2123 7843
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Yonsei University
+        city: Seoul
+        region: Republic of Korea
+      directions: C507, Engineering Building, Department of Electrical and Electronic Engineering
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 9:00 to Friday 18:00'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://us04web.zoom.us/j/9154272063?pwd=ZmpIaFBRa0pDYjJLcFAyQmZWNjl1UT09'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
