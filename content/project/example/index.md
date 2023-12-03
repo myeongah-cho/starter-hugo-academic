@@ -6,5 +6,5 @@ tags:
 
 image:
   caption: ''
-  focal_point: Smart
+  focal_point: 
 ---
