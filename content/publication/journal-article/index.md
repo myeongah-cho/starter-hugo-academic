@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*IEEE Access*"
 publication_short: "IEEE Access"
 
-abstract: Estimating frame-to-frame (F2F) visual odometry with monocular images has significant problems of propagated accumulated drift. We propose a learning-based approach for F2F monocular visual odometry estimation with novel and simple methods that consider the coherence of camera trajectories without any post-processing. The proposed network consists of two stages: initial estimation and error relaxation. In the first stage, the network learns disparity images to extract features and predicts relative camera pose between adjacent two frames through the attention, rotation, and translation networks. Then, loss functions are proposed in the error relaxation stage to reduce the local drift, increasing consistency under dynamic driving scenes. Moreover, our skip-ordering scheme shows the effectiveness of dealing with sequential data. Experiments with the KITTI benchmark dataset show that our proposed network outperforms other approaches with higher and more stable performance.
+abstract: Estimating frame-to-frame (F2F) visual odometry with monocular images has significant problems of propagated accumulated drift. We propose a learning-based approach for F2F monocular visual odometry estimation with novel and simple methods that consider the coherence of camera trajectories without any post-processing. The proposed network consists of two stages- initial estimation and error relaxation. In the first stage, the network learns disparity images to extract features and predicts relative camera pose between adjacent two frames through the attention, rotation, and translation networks. Then, loss functions are proposed in the error relaxation stage to reduce the local drift, increasing consistency under dynamic driving scenes. Moreover, our skip-ordering scheme shows the effectiveness of dealing with sequential data. Experiments with the KITTI benchmark dataset show that our proposed network outperforms other approaches with higher and more stable performance.
 
 # Summary. An optional shortened abstract.
 summary: ' '
@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-  - name: "open access"
-  url: "https://ieeexplore.ieee.org/abstract/document/9919836"
+- name: open access
+  url: https://ieeexplore.ieee.org/abstract/document/9919836
 url_pdf: ''
 url_code: ''
 url_dataset: ''
