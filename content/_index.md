@@ -68,6 +68,9 @@ sections:
         city: Gyeonggi-do, 17104
         region: Republic of Korea
       directions: Room 7032, Woojungwon Building, Kyung Hee University
+      coordinates:
+        latitude: '37.2458680'
+        longitude: '127.0772930' 
       contact_links:
         - icon: video
           icon_pack: fas
