@@ -25,13 +25,26 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  - block: markdown
-    id: featured
+  - block: portfolio
+    id: projects
     content:
-      title: Will be uploaded
-      subtitle: ''
+      title: Featured Publications
+      filters:
+        folders:
+          - project
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Conference
+          tag: Conference
+        - name: Journal
+          tag: Journal
     design:
       columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: markdown
     id: talks
     content:
