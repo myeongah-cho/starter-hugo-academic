@@ -58,7 +58,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am always looking for talented and motivated collaborators (graduate students, postdocs, and undergraduate interns). If you're interested in joining our lab or collaborating, please email me.
+        I am always looking for talented and motivated collaborators $($graduate students, postdocs, and undergraduate interns$)$. If you're interested in joining our lab or collaborating, please email me.
       # Contact (add or remove contact options as necessary)
       email: maycho@khu.ac.kr
       phone: +82 31 201 2595
