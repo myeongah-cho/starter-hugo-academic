@@ -12,10 +12,6 @@ image:
   caption: 
   focal_point: Smart
 
-url_code: ''
-url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf'
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=31ccYdwGDG8'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
