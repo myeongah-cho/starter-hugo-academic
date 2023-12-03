@@ -9,8 +9,6 @@ location: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2
 address:
   city: Vancouver
   country: Canada
-authors: [**MyeongAh Cho**, Minjung Kim, Sangwon Hwang, Chaewon Park, Kyungjae Lee, Sangyoun Lee]
-
 # Optional external URL for project (replaces project detail page).
 external_link: https://example.org
 
