@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Look Around for Anomalies: Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning
+summary:** MyeongAh Cho**, Minjung Kim, Sangwon Hwang, Chaewon Park, Kyungjae Lee, Sangyoun Lee
 tags:
   - Demo
 
