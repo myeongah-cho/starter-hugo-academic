@@ -18,7 +18,7 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-   - block: markdown
+  - block: markdown
     id: projects
     content:
       title: Will be uploaded
