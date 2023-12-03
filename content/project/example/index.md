@@ -2,7 +2,7 @@
 title: Look Around for Anomalies$:$ Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning
 summary: **MyeongAh Cho**, Minjung Kim, Sangwon Hwang, Chaewon Park, Kyungjae Lee, Sangyoun Lee
 tags:
-  - Conference
+  - Demo
 
 
 # Optional external URL for project (replaces project detail page).
