@@ -57,34 +57,30 @@ sections:
     content:
       title: Contact
       subtitle:
-      # text: |-
-        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: |-
+        I am always looking for talented and motivated collaborators (graduate students, postdocs, and undergraduate interns). If you're interested in joining our lab or collaborating, please email me.
       # Contact (add or remove contact options as necessary)
-      email: maycho0305@gmail.com
-      phone: +82 2 2123 7843
-      # appointment_url: 'https://calendly.com'
+      email: maycho@khu.ac.kr
+      phone: +82 31 201 2595
+      appointment_url (for KHU): [Aladdin](https://aladdin.khu.ac.kr/)
       address:
-        street: Yonsei University
-        city: Seoul
+        street: 1732 Deogyeong-daero, Giheung-gu, Yongin-si
+        city: Gyeonggi-do, 17104
         region: Republic of Korea
-      directions: C507, Engineering Building, Department of Electrical and Electronic Engineering
-      office_hours:
-        - 'Monday 9:00 to Friday 18:00'
+      directions: Room 7032, Woojungwon Building, Kyung Hee University
+      # office_hours:
+      #  - 'Monday 9:00 to Friday 18:00'
+      coordinates:
+        latitude: '37.2458680'
+        longitude: '127.0772930'  
       contact_links:
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://us04web.zoom.us/j/9154272063?pwd=ZmpIaFBRa0pDYjJLcFAyQmZWNjl1UT09'
+          link: 'https://khu-ac.zoom.us/j/5962979679'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+     
     design:
       columns: '2'
 ---
