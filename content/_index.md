@@ -62,14 +62,12 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: maycho@khu.ac.kr
       phone: +82 31 201 2595
-      appointment_url (for KHU): [Aladdin](https://aladdin.khu.ac.kr/)
+      appointment_url: [Aladdin (for KHU)](https://aladdin.khu.ac.kr/)
       address:
         street: 1732 Deogyeong-daero, Giheung-gu, Yongin-si
         city: Gyeonggi-do, 17104
         region: Republic of Korea
       directions: Room 7032, Woojungwon Building, Kyung Hee University
-      # office_hours:
-      #  - 'Monday 9:00 to Friday 18:00'
       coordinates:
         latitude: '37.2458680'
         longitude: '127.0772930'  
