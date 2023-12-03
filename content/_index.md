@@ -18,13 +18,6 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  - block: markdown
-    id: projects
-    content:
-      title: Will be uploaded
-      subtitle: ''
-    design:
-      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -52,6 +45,31 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: markdown
     id: talks
     content:
