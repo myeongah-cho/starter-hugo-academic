@@ -28,7 +28,7 @@ abstract: Estimating frame-to-frame (F2F) visual odometry with monocular images 
 summary: ' '
 
 tags:
-- Source Themes
+- Journals
 featured: false
 
 links:
