@@ -22,7 +22,7 @@ organizations:
     url: http://swcon.khu.ac.kr/wordpress/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision, pattern recognition and deep learning.
 
 # Interests to show in About widget
 interests:
