@@ -1,10 +1,8 @@
 ---
 title: Look Around for Anomalies: Weakly-supervised Anomaly Detection via Context-Motion Relational Learning
-location: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 23)
 summary: **MyeongAh Cho**, Minjung Kim, Sangwon Hwang, Chaewon Park, Kyungjae Lee, Sangyoun Lee
 tags:
   - Conferences
-date: '2023-06'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.html'
@@ -14,7 +12,6 @@ image:
   caption: 
   focal_point: Smart
 
-links:
 url_code: ''
 url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf'
 url_slides: ''
