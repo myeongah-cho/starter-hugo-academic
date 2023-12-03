@@ -1,5 +1,5 @@
 ---
-title: Look Around for Anomalies Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning
+title: Look Around for Anomalies/: Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning
 summary:
 tags:
   - Demo
