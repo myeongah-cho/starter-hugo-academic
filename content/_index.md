@@ -25,13 +25,33 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  - block: markdown
-    id: publications
+  - block: portfolio
+    id: projects
     content:
-      title: Will be uploaded
-      subtitle: ''
+      title: Featured Publications
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Conferences
+          tag: Conferences
+        - name: Journals
+          tag: Journals
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: markdown
     id: talks
     content:
@@ -45,14 +65,14 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am always looking for talented and motivated collaborators $($graduate students, postdocs, and undergraduate interns$)$. If you're interested in joining our lab or collaborating, please email me.
+        I am always looking for talented and motivated collaborators (graduate students, postdocs, and undergraduate interns). If you're interested in joining our lab or collaborating, please email me.
       # Contact (add or remove contact options as necessary)
       email: maycho@khu.ac.kr
       phone: +82 31 201 2595
       
       address:
         street: 1732 Deogyeong-daero, Giheung-gu, Yongin-si
-        city: Gyeonggi-do, 17104
+        city: Gyeonggi-do
         region: Republic of Korea
       directions: Room 7032, Woojungwon Building, Kyung Hee University
       coordinates:
