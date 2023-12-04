@@ -1,0 +1,13 @@
+@article{CHO2022108703,
+title = {Unsupervised video anomaly detection via normalizing flows with implicit latent features},
+journal = {Pattern Recognition},
+volume = {129},
+pages = {108703},
+year = {2022},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2022.108703},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320322001844},
+author = {MyeongAh Cho and Taeoh Kim and Woo Jin Kim and Suhwan Cho and Sangyoun Lee},
+keywords = {Video anomaly detection, Surveillance system, AutoEncoder, Normalizing flow},
+abstract = {In contemporary society, surveillance anomaly detection, i.e., spotting anomalous events such as crimes or accidents in surveillance videos, is a critical task. As anomalies occur rarely, most training data consists of unlabeled videos without anomalous events, which makes the task challenging. Most existing methods use an autoencoder (AE) to learn to reconstruct normal videos; they then detect anomalies based on their failure to reconstruct the appearance of abnormal scenes. However, because anomalies are distinguished by appearance as well as motion, many previous approaches have explicitly separated appearance and motion informationfor example, using a pre-trained optical flow model. This explicit separation restricts reciprocal representation capabilities between two types of information. In contrast, we propose an implicit two-path AE (ITAE), a structure in which two encoders implicitly model appearance and motion features, along with a single decoder that combines them to learn normal video patterns. For the complex distribution of normal scenes, we suggest normal density estimation of ITAE features through normalizing flow (NF)-based generative models to learn the tractable likelihoods and identify anomalies using out-of-distribution detection. NF models intensify ITAE performance by learning normality through implicitly learned features. Finally, we demonstrate the effectiveness of ITAE and its feature distribution modeling on six benchmarks, including databases that contain various anomalies in real-world scenarios.}
+}
