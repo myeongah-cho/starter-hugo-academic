@@ -20,8 +20,8 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Information Forensics and Security (<u>IF: 7.18<\u>)*"
-publication_short: "*IEEE TIFS (<u>IF: 7.18<\u>)*"
+publication: "*IEEE Transactions on Information Forensics and Security (<u>IF: 7.18</u>)*"
+publication_short: "*IEEE TIFS (<u>IF: 7.18</u>)*"
 
 abstract: Heterogeneous Face Recognition (HFR) is a task that matches faces across two different domains such as visible light (VIS), near-infrared (NIR), or the sketch domain. Due to the lack of databases, HFR methods usually exploit the pre-trained features on a large-scale visual database that contain general facial information. However, these pre-trained features cause performance degradation due to the texture discrepancy with the visual domain. With this motivation, we propose a graph-structured module called Relational Graph Module (RGM) that extracts global relational information in addition to general facial features. Because each identity’s relational information between intra-facial parts is similar in any modality, the modeling relationship between features can help cross-domain matching. Through the RGM, relation propagation diminishes texture dependency without losing its advantages from the pre-trained features. Furthermore, the RGM captures global facial geometrics from locally correlated convolutional features to identify long-range relationships. In addition, we propose a Node Attention Unit (NAU) that performs node-wise recalibration to concentrate on the more informative nodes arising from relation-based propagation. Furthermore, we suggest a novel conditional-margin loss function ( C -softmax) for the efficient projection learning of the embedding vector in HFR. The proposed method outperforms other state-of-the-art methods on five HFR databases. Furthermore, we demonstrate performance improvement on three backbones because our module can be plugged into any pre-trained face recognition backbone to overcome the limitations of a small HFR database.
 
