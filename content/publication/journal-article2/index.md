@@ -19,8 +19,8 @@ publishDate: "2022-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Circuits and Systems for Video Technology* **(IF: 5.86)**"
-publication_short: "IEEE TCSVT"
+publication: "*IEEE Transactions on Circuits and Systems for Video Technology <u>(IF: 5.86)</u>*"
+publication_short: "*IEEE TCSVT <u>(IF: 5.86)</u>*"
 
 abstract: Multi-object tracking (MOT), which is crucial for computer vision and video processing, has immense potential for improvement. Traditional tracking-by-detection approaches include feature-based object re-identification methods that use trained features, but these methods suffer from a lack of suitable training data. In training datasets used for MOT, every object in a video sequence must have its own location and ID. However, assigning IDs to each object in every sequence is considerably labor-intensive, and hence current MOT datasets are unsuitable for training re-identification networks. To resolve this issue, this paper proposes a novel self-supervised learning method using several short videos that contain no human-added labels, based on the idea that each video is a set of temporally corresponding image frames. We then describe how to improve tracking performance using a re-identification network trained in a self-supervised manner. In addition, ablation studies were conducted in order to define the optimal parameters, such as number of clips, data augmentation, and appropriate matching algorithms. The proposed approach achieved competitive performance compared with current best-practice methods including supervised methods, achieving MOT accuracy = 62.0% and ID F1-score = 62.7% on the MOT17 benchmark.
 
