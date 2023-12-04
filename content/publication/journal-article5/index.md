@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Under-review*"
-publication_short: "Under-review"
+publication_short: "*Under-review*"
 
 abstract: ' '
 
