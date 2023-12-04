@@ -5,17 +5,18 @@ title: 'Learning Temporally Invariant and Localizable Features via Data Augmenta
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Taeoh Kim *
-  - Hyeongmin Lee *
-  - admin *
+  - Taeoh Kim
+  - Hyeongmin Lee
+  - admin
   - Ho Seong Lee
   - Dong Heon Cho
   - Sangyoun Lee 
 
 # Author notes (optional)
-# author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2020-08-01T00:00:00Z'
 doi: ''
