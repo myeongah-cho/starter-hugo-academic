@@ -19,8 +19,8 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Access __(IF: 3.48)__*"
-publication_short: "*IEEE Access __(IF: 3.48)__*"
+publication: "*IEEE Access _(IF: 3.48)_*"
+publication_short: "*IEEE Access _(IF: 3.48)_*"
 
 abstract: Estimating frame-to-frame (F2F) visual odometry with monocular images has significant problems of propagated accumulated drift. We propose a learning-based approach for F2F monocular visual odometry estimation with novel and simple methods that consider the coherence of camera trajectories without any post-processing. The proposed network consists of two stages- initial estimation and error relaxation. In the first stage, the network learns disparity images to extract features and predicts relative camera pose between adjacent two frames through the attention, rotation, and translation networks. Then, loss functions are proposed in the error relaxation stage to reduce the local drift, increasing consistency under dynamic driving scenes. Moreover, our skip-ordering scheme shows the effectiveness of dealing with sequential data. Experiments with the KITTI benchmark dataset show that our proposed network outperforms other approaches with higher and more stable performance.
 
