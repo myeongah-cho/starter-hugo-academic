@@ -1,17 +1,16 @@
 ---
-title: "Relational Deep Feature Learning for Heterogeneous Face Recognition"
+title: "SSAT: Self-Supervised Associating Network for Multiobject Tracking"
 authors:
+- Tae-Young Chung
 - admin
-- Taeoh Kim
-- Ig-Jae Kim
-- Kyungjae Lee
+- Heansung Lee
 - Sangyoun Lee
 
-date: "2021-07-01T00:00:00Z"
-doi: "10.1109/TIFS.2020.3013186"
+date: "2022-06-01T00:00:00Z"
+doi: "10.1109/TCSVT.2022.3186751"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,22 +19,22 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Information Forensics and Security (<u>IF: 7.18<\u>)*"
-publication_short: "*IEEE TIFS (<u>IF: 7.18<\u>)*"
+publication: "*IEEE Transactions on Circuits and Systems for Video Technology* **(IF: 5.86)**"
+publication_short: "IEEE TCSVT"
 
-abstract: Heterogeneous Face Recognition (HFR) is a task that matches faces across two different domains such as visible light (VIS), near-infrared (NIR), or the sketch domain. Due to the lack of databases, HFR methods usually exploit the pre-trained features on a large-scale visual database that contain general facial information. However, these pre-trained features cause performance degradation due to the texture discrepancy with the visual domain. With this motivation, we propose a graph-structured module called Relational Graph Module (RGM) that extracts global relational information in addition to general facial features. Because each identity’s relational information between intra-facial parts is similar in any modality, the modeling relationship between features can help cross-domain matching. Through the RGM, relation propagation diminishes texture dependency without losing its advantages from the pre-trained features. Furthermore, the RGM captures global facial geometrics from locally correlated convolutional features to identify long-range relationships. In addition, we propose a Node Attention Unit (NAU) that performs node-wise recalibration to concentrate on the more informative nodes arising from relation-based propagation. Furthermore, we suggest a novel conditional-margin loss function ( C -softmax) for the efficient projection learning of the embedding vector in HFR. The proposed method outperforms other state-of-the-art methods on five HFR databases. Furthermore, we demonstrate performance improvement on three backbones because our module can be plugged into any pre-trained face recognition backbone to overcome the limitations of a small HFR database.
+abstract: Multi-object tracking (MOT), which is crucial for computer vision and video processing, has immense potential for improvement. Traditional tracking-by-detection approaches include feature-based object re-identification methods that use trained features, but these methods suffer from a lack of suitable training data. In training datasets used for MOT, every object in a video sequence must have its own location and ID. However, assigning IDs to each object in every sequence is considerably labor-intensive, and hence current MOT datasets are unsuitable for training re-identification networks. To resolve this issue, this paper proposes a novel self-supervised learning method using several short videos that contain no human-added labels, based on the idea that each video is a set of temporally corresponding image frames. We then describe how to improve tracking performance using a re-identification network trained in a self-supervised manner. In addition, ablation studies were conducted in order to define the optimal parameters, such as number of clips, data augmentation, and appropriate matching algorithms. The proposed approach achieved competitive performance compared with current best-practice methods including supervised methods, achieving MOT accuracy = 62.0% and ID F1-score = 62.7% on the MOT17 benchmark.
 
 # Summary. An optional shortened abstract.
 summary: ' '
 
 tags:
 - Journals
-featured: true
+featured: false
 
 links:
 - name: open access
-  url: https://ieeexplore.ieee.org/document/9153000
-url_pdf: 'https://arxiv.org/pdf/2003.00697.pdf'
+  url: https://ieeexplore.ieee.org/abstract/document/9808162
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
