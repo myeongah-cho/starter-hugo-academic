@@ -18,7 +18,13 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  
+  - block: markdown
+    id: projects
+    content:
+      title: Will be uploaded
+      subtitle: ''
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:
