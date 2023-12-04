@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.kr/citations?hl=ko&user=HLFojbcAAAAJ
+    link: https://scholar.google.co.kr/citations?user=7bGGRL8AAAAJ&hl=ko
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/myeongah-cho-729075232/
@@ -59,7 +59,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1-Ue6nIKNFmeK6wHC9MHEMn1apkJfep-L/view?usp=sharing
+    link: https://drive.google.com/file/d/1i1KeTS1YswQLi8oN2a2G9qxzrxadMkKM/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'maycho0305@gmail.com'
