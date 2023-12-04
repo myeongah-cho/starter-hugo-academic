@@ -48,7 +48,7 @@ links:
 - name: open access
   url: https://ieeexplore.ieee.org/document/9746734
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2212.04712.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
