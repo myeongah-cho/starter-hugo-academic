@@ -36,6 +36,7 @@ sections:
           description: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
           icon: edx
           organization: LG Electronics
+          organization_url: https://www.edx.org
           title: 2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction
         - certificate_url: https://www.edx.org
           date_end: ''
