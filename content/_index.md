@@ -35,7 +35,8 @@ sections:
           date_end: '2022-06-01'
           date_start: '2021-06-01'
           description: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
-          icon: edx
+          image:
+            filename: hero-academic.png
           organization: LG Electronics
           title: 2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction
         - certificate_url: https://www.edx.org
