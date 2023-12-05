@@ -84,7 +84,7 @@ sections:
     design:
       columns: '1'
   - block: experience
-    id: exp
+    id: talks
     content:
       title: Experiences
       # Date format for experience
@@ -139,7 +139,6 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    id: talks
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
