@@ -27,7 +27,7 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: featured
     content:
