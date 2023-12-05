@@ -100,9 +100,10 @@ sections:
     content:
       title: ''
       text: |-
-      1. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
-      2. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
-      3. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
+        **Patents**
+        1. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
+        2. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
+        3. Object Tracking Apparatus and Method using Self‐Attention (2021) / _KR-Registration, No.10-2359982_
     
     design:
       columns: '1'
