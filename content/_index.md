@@ -129,13 +129,6 @@ sections:
           location: Electrical Engineering, Faculty of Science and Engineering
           date_start: '2016-09-01'
           date_end: '2017-02-29'
-        - title: Kyung Hee University
-          company: Undergraduate Intern
-          company_logo: org-x
-          location: Media Lab.
-          date_start: '2017-03-01'
-          date_end: '2018-02-29'
-          description: Development of Improving Method for Virtual View Synthesis Technology
     design:
       columns: '2'
   - block: accomplishments
