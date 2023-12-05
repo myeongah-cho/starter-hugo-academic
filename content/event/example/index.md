@@ -7,6 +7,7 @@ summary: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detect
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
+date_format: Jan 2006
 date: '2022-06-01'
 date_end: '2023-06-01'
 all_day: true
