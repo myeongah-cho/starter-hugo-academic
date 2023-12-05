@@ -18,14 +18,14 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Projects
       date_format: Jan 2006
       filters:
         folders:
-          - project
+          - events
     design:
       columns: '1'
   - block: collection
