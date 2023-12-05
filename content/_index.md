@@ -138,11 +138,24 @@ sections:
           description: Development of Improving Method for Virtual View Synthesis Technology
     design:
       columns: '2'
-  - block: markdown
+  - block: accomplishments
     id: talks
     content:
-      title: Will be uploaded
-      subtitle: ''
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: ''
+          date_start: '2020-08-25'
+          description: '4th place'
+          title: 1st Visual Inductive Priors for Data‐Efficient Deep Learning Challenge
     design:
       columns: '1'
   - block: contact
