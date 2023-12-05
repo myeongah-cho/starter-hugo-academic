@@ -11,7 +11,7 @@ summary: |2-
 #   End time can optionally be hidden by prefixing the line with `#`.
 date_format: Jan 2006
 date: '2021-06-01'
-date_end: '2023-11-01'
+date_end: '2021-11-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
