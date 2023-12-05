@@ -6,8 +6,6 @@ location: LG Electronics
 summary: |2-
   **•**　3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
 
-abstract: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date_format: Jan 2006
