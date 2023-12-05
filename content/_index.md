@@ -18,13 +18,16 @@ sections:
       subtitle: ''
     design:
       columns: '1'
-  - block: markdown
+  - block: collection
     id: projects
     content:
-      title: Will be uploaded
-      subtitle: ''
+      title: Projects
+      filters:
+        folders:
+          - event
     design:
       columns: '1'
+      view: compact
   - block: collection
     id: featured
     content:
