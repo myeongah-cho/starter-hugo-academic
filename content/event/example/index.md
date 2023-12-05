@@ -4,6 +4,7 @@ title: 2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction
 location: LG Electronics
 
 summary: |2-
+  # Moving Object Detection and Anomaly Detection AI Algorithm Analysis and Dataset Construction <br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**•**　3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
 
 abstract: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
@@ -11,8 +12,8 @@ abstract: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detec
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date_format: Jan 2006
-date: 2022-06-01
-date_end: 2023-06-01
+date_start: '2022-06-01'
+date_end: '2023-06-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
