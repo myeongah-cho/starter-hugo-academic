@@ -117,12 +117,25 @@ sections:
           description: |2-
               "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos"
               (Funding KRW 150 million for 5 years)
-        - title: Hyundai Motor Company
-          company: Research Scholarship
+        - title: ETRI
+          company: Research Intern
           company_logo: org-gc
-          location: Robotics Lab.
-          date_start: '2019-06-01'
-          date_end: '2023-08-31'
+          location: Intelligent Convergence Research Lab.
+          date_start: '2017-06-23'
+          date_end: '2017-08-23'
+        - title: Linköping University
+          company: Exchange Student
+          company_logo: org-gc
+          location: Electrical Engineering, Faculty of Science and Engineering
+          date_start: '2016-09-01'
+          date_end: '2017-02-29'
+        - title: Kyung Hee University
+          company: Undergraduate Intern
+          company_logo: org-gc
+          location: Media Lab.
+          date_start: '2017-03-01'
+          date_end: '2018-02-29'
+          description: Development of Improving Method for Virtual View Synthesis Technology
         
     design:
       columns: '2'
