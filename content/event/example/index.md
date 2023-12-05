@@ -22,5 +22,5 @@ featured: false
 
 image:
   caption: 
-  focal_point: Left
+  focal_point: Right
 ---
