@@ -22,12 +22,13 @@ sections:
     id: projects
     content:
       title: Projects
+      date_format: Jan 2006
       filters:
         folders:
           - event
     design:
       columns: '1'
-      view: compact
+      # view: compact
   - block: collection
     id: featured
     content:
