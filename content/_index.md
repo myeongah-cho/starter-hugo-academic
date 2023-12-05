@@ -117,6 +117,12 @@ sections:
           description: |2-
               "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos"
               (Funding KRW 150 million for 5 years)
+        - title: Hyundai Motor Company
+          company: Research Scholarship
+          company_logo: org-gc
+          location: Robotics Lab.
+          date_start: '2019-06-01'
+          date_end: '2023-08-31'
         
     design:
       columns: '2'
