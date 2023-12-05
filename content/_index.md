@@ -98,7 +98,7 @@ sections:
       items:
         - title: Naver Cloud (CLOVA)
           company: Research Intern
-          company_logo: naver
+          company_logo: org-gc
           location: Video team
           date_start: '2023-02-01'
           date_end: '2023-08-31'
