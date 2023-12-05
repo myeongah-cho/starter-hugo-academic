@@ -5,7 +5,7 @@ location: Korea Agency for Infrastructure Technology Advancement (KAIA)
 
 summary: |2-
   Moving Object Detection and Anomaly Detection AI Algorithm Analysis and Dataset Construction
-  　　**•**　Abnormal Detection, Vehicle Speed Estimation
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**•**　Abnormal Detection, Vehicle Speed Estimation
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
