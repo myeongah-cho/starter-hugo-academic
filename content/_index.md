@@ -115,8 +115,27 @@ sections:
           date_start: '2019-03-01'
           date_end: '2023-08-31'
           description: |2-
-              "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos" 
+              "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos"
               (Funding KRW 150 million for 5 years)
+        - title: ETRI
+          company: Research Intern
+          company_logo: org-x
+          location: Intelligent Convergence Research Lab.
+          date_start: '2017-06-23'
+          date_end: '2017-08-23'
+        - title: Linköping University
+          company: Exchange Student
+          company_logo: org-x
+          location: Electrical Engineering, Faculty of Science and Engineering
+          date_start: '2016-09-01'
+          date_end: '2017-02-29'
+        - title: Kyung Hee University
+          company: Undergraduate Intern
+          company_logo: org-x
+          location: Media Lab.
+          date_start: '2017-03-01'
+          date_end: '2018-02-29'
+          description: Development of Improving Method for Virtual View Synthesis Technology
     design:
       columns: '2'
   - block: accomplishments
