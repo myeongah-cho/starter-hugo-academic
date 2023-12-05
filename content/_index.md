@@ -132,7 +132,7 @@ sections:
         - title: Linkoping University
           company: Exchange Student
           company_logo: liu
-          location: Dept.nof Electrical Engineering
+          location: Dept. of Electrical Engineering
           date_start: '2016-09-01'
           date_end: '2017-02-28'
         - title: Kyung Hee University
