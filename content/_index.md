@@ -119,7 +119,7 @@ sections:
               (Funding KRW 150 million for 5 years)
         - title: ETRI
           company: Research Intern
-          company_logo: org-gc
+          company_logo: etri
           location: Intelligent Convergence Research Lab.
           date_start: '2017-06-23'
           date_end: '2017-08-23'
