@@ -98,7 +98,7 @@ sections:
       items:
         - title: Naver Cloud (CLOVA)
           company: Research Intern
-          company_logo: org-gc
+          company_logo: naver
           location: Video team
           date_start: '2023-02-01'
           date_end: '2023-08-31'
@@ -126,7 +126,7 @@ sections:
         - title: Linkoping University
           company: Exchange Student
           company_logo: org-gc
-          location: Electrical Engineering, Faculty of Science and Engineering
+          location: Dept.nof Electrical Engineering
           date_start: '2016-09-01'
           date_end: '2017-02-28'
         - title: Kyung Hee University
