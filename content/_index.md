@@ -11,10 +11,82 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    id: post
+  - block: collection
+    id: projects
     content:
-      title: Experience
+      title: Projects
+      date_format: Jan 2006
+      count: 0
+      filters:
+        folders:
+          - event
+    design:
+      columns: '1'
+      view: compact
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '1'
+      view: card
+  - block: portfolio
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Conferences
+          tag: Conferences
+        - name: Journals
+          tag: Journals
+    design:
+      columns: '1'
+      view: citation
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        ## Patents
+        1. Object Tracking Apparatus and Method using Self‐Attention (2021)   
+          <span style="color:gray"> _KR-Registration, No.10-2359982_</span>
+        2. Apparatus and Method for Recognizing Heterogeneous Face Based on Relationship Between Component (2022)   
+          <span style="color:gray"> _KR-Registration No.10-2356438_</span>
+        3. Apparatus and Method for Tracking Pedestrians in Multiple CCTV Environment (2022)   
+          <span style="color:gray"> _KR-Registration, No.10-2355006_</span>
+        4. Apparatus And Method For Tracking Pedestrians In CCTV Environment (2023)   
+          <span style="color:gray"> _KR-Registration, No.10-2519367_</span>
+        5. Object Tracking Method and Feature Vector Extraction Method for Tracking Object (2021)   
+          <span style="color:gray"> _KR-Application, No.10-2021-0165002_</span>
+        6. Apparatus and Method for Detecting Anomalous Event (2020)   
+          <span style="color:gray"> _KR-Application, No.10-2020-0153560_</span>
+        7. Video Anomaly Detection Apparatus and Method using Relational Embedding (2022)   
+          <span style="color:gray"> _KR-Application, No.10-2022-0156968_</span>
+    
+    design:
+      columns: '1'
+  - block: experience
+    id: exp
+    content:
+      title: Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -66,78 +138,6 @@ sections:
           description: Development of Improving Method for Virtual View Synthesis Technology
     design:
       columns: '2'
-  - block: collection
-    id: projects
-    content:
-      title: Projects
-      date_format: Jan 2006
-      count: 0
-      filters:
-        folders:
-          - event
-    design:
-      columns: '1'
-      view: compact
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: portfolio
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Conferences
-          tag: Conferences
-        - name: Journals
-          tag: Journals
-    design:
-      columns: '1'
-      view: citation
-  - block: markdown
-    content:
-      title: ''
-      text: |-
-        ## Patents
-        1. Object Tracking Apparatus and Method using Self‐Attention (2021)   
-          <span style="color:gray"> _KR-Registration, No.10-2359982_</span>
-        2. Apparatus and Method for Recognizing Heterogeneous Face Based on Relationship Between Component (2022)   
-          <span style="color:gray"> _KR-Registration No.10-2356438_</span>
-        3. Apparatus and Method for Tracking Pedestrians in Multiple CCTV Environment (2022)   
-          <span style="color:gray"> _KR-Registration, No.10-2355006_</span>
-        4. Apparatus And Method For Tracking Pedestrians In CCTV Environment (2023)   
-          <span style="color:gray"> _KR-Registration, No.10-2519367_</span>
-        5. Object Tracking Method and Feature Vector Extraction Method for Tracking Object (2021)   
-          <span style="color:gray"> _KR-Application, No.10-2021-0165002_</span>
-        6. Apparatus and Method for Detecting Anomalous Event (2020)   
-          <span style="color:gray"> _KR-Application, No.10-2020-0153560_</span>
-        7. Video Anomaly Detection Apparatus and Method using Relational Embedding (2022)   
-          <span style="color:gray"> _KR-Application, No.10-2022-0156968_</span>
-    
-    design:
-      columns: '1'
   - block: markdown
     id: talks
     content:
