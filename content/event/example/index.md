@@ -4,7 +4,7 @@ title: 2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction
 location: LG Electronics
 
 summary: |2-
-  **•**     3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
+  **•**　　3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
 
 abstract: 3D View Generation, Depth Estimation, 2D-3D Retrieval, 3D Object Detection
 
