@@ -1,4 +1,3 @@
----
 ```
 title: Development of Smart Signal Management System Customized for National Roads
 
@@ -6,7 +5,7 @@ location: Korea Agency for Infrastructure Technology Advancement (KAIA)
 
 summary: |2-
   Moving Object Detection and Anomaly Detection AI Algorithm Analysis and Dataset Construction <br> 
-
+  **•**　Abnormal Detection, Vehicle Speed Estimation
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,4 +27,3 @@ image:
   caption: 
   focal_point: Right
 ```
----
