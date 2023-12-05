@@ -4,7 +4,7 @@ title: Development of Smart Signal Management System Customized for National Roa
 location: Korea Agency for Infrastructure Technology Advancement (KAIA)
 
 summary: |2-
-  Moving Object Detection and Anomaly Detection AI Algorithm Analysis and Dataset Construction
+  Moving Object Detection and Anomaly Detection AI Algorithm Analysis and Dataset Construction <br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**•**　Abnormal Detection, Vehicle Speed Estimation
 
 # Talk start and end times.
