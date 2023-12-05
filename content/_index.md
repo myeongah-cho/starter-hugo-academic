@@ -117,12 +117,7 @@ sections:
           description: |2-
               "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos"
               (Funding KRW 150 million for 5 years)
-        - title: ETRI
-          company: Research Intern
-          company_logo: org-x
-          location: Intelligent Convergence Research Lab.
-          date_start: '2017-06-23'
-          date_end: '2017-08-23'
+        
     design:
       columns: '2'
   - block: accomplishments
