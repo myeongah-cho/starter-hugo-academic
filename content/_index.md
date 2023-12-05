@@ -123,7 +123,7 @@ sections:
           location: Intelligent Convergence Research Lab.
           date_start: '2017-06-23'
           date_end: '2017-08-23'
-        - title: Linköping University
+        - title: Linkoping University
           company: Exchange Student
           company_logo: org-x
           location: Electrical Engineering, Faculty of Science and Engineering
