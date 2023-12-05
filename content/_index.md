@@ -73,11 +73,20 @@ sections:
       title: ''
       text: |-
         ### Patents
-        1. Object Tracking Apparatus and Method using Self‐Attention (2021)
+        1. Object Tracking Apparatus and Method using Self‐Attention (2021)   
           <span style="color:gray"> _KR-Registration, No.10-2359982_</span>
-        2. Apparatus and Method for Recognizing Heterogeneous Face Based on Relationship Between Component (2022)
-        3. Apparatus and Method for Tracking Pedestrians in Multiple CCTV Environment (2022)
-        
+        2. Apparatus and Method for Recognizing Heterogeneous Face Based on Relationship Between Component (2022)   
+          <span style="color:gray"> _KR-Registration No.10-2356438_</span>
+        3. Apparatus and Method for Tracking Pedestrians in Multiple CCTV Environment (2022)   
+          <span style="color:gray"> _KR-Registration, No.10-2355006_</span>
+        4. Apparatus And Method For Tracking Pedestrians In CCTV Environment (2023)   
+          <span style="color:gray"> _KR-Registration, No.10-2519367_</span>
+        5. Object Tracking Method and Feature Vector Extraction Method for Tracking Object (2021)   
+          <span style="color:gray"> _KR-Application, No.10-2021-0165002_</span>
+        6. Apparatus and Method for Detecting Anomalous Event (2020)   
+          <span style="color:gray"> _KR-Application, No.10-2020-0153560_</span>
+        7. Video Anomaly Detection Apparatus and Method using Relational Embedding (2022)   
+          <span style="color:gray"> _KR-Application, No.10-2022-0156968_</span>
     
     design:
       columns: '1'
