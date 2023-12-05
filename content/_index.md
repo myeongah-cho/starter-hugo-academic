@@ -68,6 +68,34 @@ sections:
     design:
       columns: '1'
       view: citation
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Patents'
+      subtitle:
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: KR-Registration, No.10-2359982
+          title: Object Tracking Apparatus and Method using Self‐Attention
+        - date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: KR-Registration, No.10-2359982
+          title: Object Tracking Apparatus and Method using Self‐Attention
+        - date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: KR-Registration, No.10-2359982
+          title: Object Tracking Apparatus and Method using Self‐Attention
+    design:
+      columns: '1'
   - block: markdown
     id: talks
     content:
