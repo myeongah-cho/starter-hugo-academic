@@ -98,19 +98,19 @@ sections:
       items:
         - title: Naver Cloud (CLOVA)
           company: Research Intern
-          company_logo: org-gc
+          company_logo: naver
           location: Video team
           date_start: '2023-02-01'
           date_end: '2023-08-31'
         - title: Hyundai Motor Company
           company: Research Scholarship
-          company_logo: org-gc
+          company_logo: hyundai
           location: Robotics Lab.
           date_start: '2019-06-01'
           date_end: '2023-08-31'
         - title: Global Ph.D. Fellowship
           company: Research Scholarship
-          company_logo: org-gc
+          company_logo: gpf
           location: National Research Foundation of Korea (NRF)
           date_start: '2019-03-01'
           date_end: '2023-08-31'
@@ -125,13 +125,13 @@ sections:
           date_end: '2017-08-23'
         - title: Linkoping University
           company: Exchange Student
-          company_logo: org-gc
+          company_logo: liu
           location: Dept.nof Electrical Engineering
           date_start: '2016-09-01'
           date_end: '2017-02-28'
         - title: Kyung Hee University
           company: Undergraduate Intern
-          company_logo: org-gc
+          company_logo: kh
           location: Media Lab.
           date_start: '2017-03-01'
           date_end: '2018-02-28'
