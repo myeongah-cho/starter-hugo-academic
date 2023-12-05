@@ -74,7 +74,7 @@ sections:
       text: |-
       ### Patents
       1. Object Tracking Apparatus and Method using Self‐Attention (2021)
-        - <span style="color:gray"> _KR-Registration, No.10-2359982_</span>
+        - ddd
       2. Apparatus and Method for Recognizing Heterogeneous Face Based on Relationship Between Component (2022)
       3. Apparatus and Method for Tracking Pedestrians in Multiple CCTV Environment (2022)
         
