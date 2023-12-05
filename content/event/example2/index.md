@@ -1,4 +1,3 @@
-```
 ---
 title: Development of Smart Signal Management System Customized for National Roads
 
@@ -28,4 +27,3 @@ image:
   caption: 
   focal_point: Right
 ---
-```
