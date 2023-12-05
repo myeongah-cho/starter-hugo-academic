@@ -98,7 +98,7 @@ sections:
       items:
         - title: Naver Cloud (CLOVA)
           company: Research Intern
-          company_logo: org-gc
+          company_logo: naver
           location: Video team
           date_start: '2023-02-01'
           date_end: '2023-08-31'
@@ -123,12 +123,6 @@ sections:
           location: Intelligent Convergence Research Lab.
           date_start: '2017-06-23'
           date_end: '2017-08-23'
-        - title: Linkoping University
-          company: Exchange Student
-          company_logo: org-x
-          location: Electrical Engineering, Faculty of Science and Engineering
-          date_start: '2016-09-01'
-          date_end: '2017-02-29'
     design:
       columns: '2'
   - block: accomplishments
