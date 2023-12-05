@@ -102,6 +102,21 @@ sections:
           location: Video team
           date_start: '2023-02-01'
           date_end: '2023-08-31'
+        - title: Hyundai Motor Company
+          company: Research Scholarship
+          company_logo: org-gc
+          location: Robotics Lab.
+          date_start: '2019-06-01'
+          date_end: '2023-08-31'
+        - title: Global Ph.D. Fellowship
+          company: Research Scholarship
+          company_logo: org-gc
+          location: National Research Foundation of Korea (NRF)
+          date_start: '2019-03-01'
+          date_end: '2023-08-31'
+          description: |2-
+              "Anomaly Detection System with Relation Embedding and Contextual Understanding in Surveillance Videos" 
+              (Funding KRW 150 million for 5 years)
     design:
       columns: '2'
   - block: accomplishments
