@@ -25,7 +25,7 @@ sections:
       date_format: Jan 2006
       filters:
         folders:
-          - project
+          - event
     design:
       columns: '1'
       view: compact
