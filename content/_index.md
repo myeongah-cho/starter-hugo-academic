@@ -25,7 +25,7 @@ sections:
       date_format: Jan 2006
       filters:
         folders:
-          - event
+          - project
     design:
       columns: '1'
   - block: collection
