@@ -17,7 +17,7 @@ sections:
       title: Research Interests
       filters:
         folders:
-          - post
+          - research
     default_button_index: 0
     design:
       columns: '1'
