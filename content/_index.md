@@ -11,14 +11,11 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: portfolio
+  - block: markdown
     id: posts
     content:
       title: Research Interests
-      filters:
-        folders:
-          - research
-    default_button_index: 0
+      
     design:
       columns: '1'
       
