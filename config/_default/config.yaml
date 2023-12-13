@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: MyeongAh Cho # Website name
-baseURL: 'https://myeongahcho.com/' # Website URL
+baseURL: 'https://myeongah-cho.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
