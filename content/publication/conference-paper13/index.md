@@ -45,9 +45,6 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: open access
-  url: ''
 
 url_pdf: ''
 url_code: ''
