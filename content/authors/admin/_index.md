@@ -29,6 +29,7 @@ interests:
   - Computer Vision
   - Deep Learning
   - Image/Video Processing
+  - Multi-modal Learning
 
 # Education to show in About widget
 education:
