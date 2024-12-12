@@ -10,7 +10,7 @@ authors:
   - YoungBin Kim*
   - Donghyeong Kim
   - Hyeonjeong Lim
-  - MyeongAh Cho
+  - admin
 
 # Author notes (optional)
 # author_notes:
