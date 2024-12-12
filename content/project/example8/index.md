@@ -3,9 +3,9 @@ title: Anomaly pre-detection and response for intelligent surveillance system hi
 
 location: National Research Foundation of Korea (NRF)
 
-summary: Video Anomaly Detection, Multi-modal Learning
+summary: Video Anomaly Detection, Multi-modal Learning, VLM
 
-abstract: Video Anomaly Detection, Multi-modal Learning
+abstract: Video Anomaly Detection, Multi-modal Learning, VLM
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
